@@ -19,3 +19,10 @@ const hello = ['h', 'e', 'l', 'l', 'o'];
 console.log(hello);
 reverse(hello);
 console.log(hello);
+
+let num = 10;
+// check if num is ODD
+console.log(num % 2 === 1);
+
+// check if num is EVEN
+console.log(num % 2 === 0);
