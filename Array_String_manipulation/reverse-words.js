@@ -39,7 +39,7 @@ const reverseWords = (msgArr) => {
   return msgArr;
 };
 
-// Example
+// Example case
 const message = ['c', 'a', 'k', 'e', ' ', 'p', 'o', 'u', 'n', 'd', ' ', 's', 't', 'e', 'a', 'l'];
 
 reverseWords(message);
